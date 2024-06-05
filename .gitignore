@@ -19,6 +19,7 @@ coverage
 
 # Editor directories and files
 .vscode/*
+.vs/*
 !.vscode/extensions.json
 .idea
 *.suo
@@ -160,3 +161,5 @@ $RECYCLE.BIN/
 
 _NCrunch*
 /backend/KLA/KLA.API/appsettings.Development.json
+
+/backend/KLA/.vs*
