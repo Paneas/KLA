@@ -159,3 +159,4 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+/backend/KLA/KLA.API/appsettings.Development.json
